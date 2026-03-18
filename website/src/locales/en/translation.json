@@ -1,0 +1,1010 @@
+{
+  "dir": "ltr",
+  "common": {
+    "getAQuote": "Get a Quote",
+    "quoteNow": "Quote Now",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "sending": "Sending...",
+    "sentSuccess": "Sent successfully! You have {{count}} quotas left for enquiring brochure.",
+    "sendFailed": "Failed to send.",
+    "loading": "Loading...",
+    "back": "Back",
+    "continue": "Continue",
+    "submit": "Submit",
+    "edit": "Edit",
+    "notSelected": "Not selected"
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "hire": "Hire",
+    "servicesDropdown": {
+      "aiMl": "AI/ML Development",
+      "mobile": "Mobile Development",
+      "web": "Web Development",
+      "cloud": "Cloud Development",
+      "uiux": "UI/UX Design",
+      "qa": "QA & Testing"
+    },
+    "hireDropdown": {
+      "fullStack": "Full Stack Developer",
+      "mobileApp": "Mobile App Developer",
+      "aiMl": "AI/ML Engineer",
+      "cloud": "Cloud Engineer",
+      "uiux": "UI/UX Designer",
+      "qa": "QA Engineer"
+    }
+  },
+  "footer": {
+    "companyName": "Barakode",
+    "companyHighlight": ".",
+    "description": "By getting a quote, you agree to our Privacy Policy and consent to receive updates.",
+    "emailPlaceholder": "Your Email Here",
+    "emailButton": "Get a Quote",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us On",
+    "copyright": "© 2025 Barakode. All rights reserved.",
+    "links": {
+      "home": "Home",
+      "aboutUs": "About Us",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "hire": "Hire",
+      "contactUs": "Contact Us"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "X (Twitter)",
+      "instagram": "Instagram",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "home": {
+    "pageTitle": "Barakode | Home",
+    "section1": {
+      "heroTitle": "Pioneering Tomorrow's Innovations with",
+      "heroHighlight": " Custom Software Solutions.",
+      "heroSubtitle": "Don't fall behind. We design and deliver custom software that's smarter, faster, and scalable — so you lead the market instead of chasing it.",
+      "stats": {
+        "clients": "Clients",
+        "projects": "Projects",
+        "team": "Team",
+        "years": "Years"
+      },
+      "globeDescription": "From modern websites to intelligent mobile apps, we help businesses scale with purpose-driven digital solutions.",
+      "firstButton": "Discover more",
+      "secondButton": "Start Your Project"
+    },
+    "section2": {
+      "heading": "Solutions Built for Business Growth",
+      "description": "From modern websites to intelligent mobile apps, we help businesses scale with purpose-driven digital solutions.",
+      "cards": {
+        "webDev": {
+          "title": "Web Development",
+          "content": "Tailored designs that connect your brand with your audience, professionally and effectively."
+        },
+        "appDev": {
+          "title": "App Development",
+          "content": "Applications engineered to deliver seamless user experiences and drive measurable results."
+        },
+        "cloudDev": {
+          "title": "Cloud Development",
+          "content": "Scalable cloud solutions that provide flexibility, security, and performance for modern businesses."
+        },
+        "aiDev": {
+          "title": "AI Development",
+          "content": "Cutting-edge AI solutions including LLM integration, RAG systems, ML models, and intelligent automation to transform your business operations."
+        }
+      }
+    },
+    "section3": {
+      "heading": "Discover additional services that elevate your digital journey beyond expectations.",
+      "cards": {
+        "qa": {
+          "title": "Quality Assurance Services",
+          "description": "Comprehensive testing and quality assurance to ensure your software meets the highest standards of performance and reliability."
+        },
+        "marketing": {
+          "title": "Digital Marketing",
+          "description": "Strategic marketing solutions that amplify your brand's reach and engagement across digital platforms."
+        },
+        "support": {
+          "title": "Tech Support",
+          "description": "Help with deploying React, Node, Firebase, etc., and fixing bugs for student or client projects."
+        }
+      }
+    },
+    "section4": {
+      "title": "Our Seamless Process: From Concept to Completion in Just a Few Steps",
+      "steps": {
+        "design": {
+          "title": "Transforming Ideas into Reality",
+          "desc": "We start with understanding your vision and requirements to create a tailored solution.",
+          "label": "Design"
+        },
+        "develop": {
+          "title": "Building with precision.",
+          "desc": "we develop reliable applications that perform across devices and platforms.",
+          "label": "Develop"
+        },
+        "deliver": {
+          "title": "On time. On point.",
+          "desc": "We ensure your project is delivered on time, meeting all specifications and quality standards.",
+          "label": "Deliver"
+        }
+      }
+    },
+    "section6": {
+      "title": "Customer Testimonials",
+      "title2": "Project Showcase",
+      "exploreMore": "Explore More",
+      "reviews": {
+        "ayesha": {
+          "body": "Professional CSM support with quick turnaround. The AI integration really simplified our workflow."
+        },
+        "daniel": {
+          "body": "Their AI solutions blew me away. Automated insights saved us hours of manual work!"
+        },
+        "fatima": {
+          "body": "Great customer success management and affordable AI-driven tools. Highly reliable."
+        },
+        "omar": {
+          "body": "They handled our CSM setup smoothly and gave us powerful AI recommendations. Excellent work!"
+        },
+        "sophia": {
+          "body": "Very innovative in applying AI to real business challenges. Clear communication throughout."
+        },
+        "michael": {
+          "body": "CSM service was seamless. The AI chatbot they built improved our customer engagement instantly."
+        }
+      },
+      "projects": {
+        "webweave": {
+          "title": "WebWeabe - Crawl the Web, Own the Data.",
+          "description": "A powerful site crawler that extracts, structures, and delivers the data you need."
+        },
+        "workwise": {
+          "title": "WorkWise - Work Smarter. Hire Faster.",
+          "description": "WorkWise connects freelancers and clients through a seamless, Kotlin-powered platform."
+        },
+        "skymapr": {
+          "title": "SkyMapr – From satellite pixels to insights.",
+          "description": "Match satellite images effortlessly and turn every pixel into real-world coordinates."
+        }
+      }
+    },
+    "section7": {
+      "scrollText": "Automate. Adapt. Achieve",
+      "title": "Shaping Ideas Into Immersive Realities",
+      "description": "We craft with care, build with precision, and deliver with purpose",
+      "firstButton": "Build With Us",
+      "secondButton": "Talk to Our Experts"
+    },
+    "section8": {
+      "title": "Frequently Asked Questions",
+      "faqs": {
+        "q1": {
+          "question": "What services do you offer?",
+          "answer": "We offer a comprehensive range of services including web development, mobile app development, cloud development, AI development (LLM, RAG, ML models), quality assurance services, digital marketing, and technical support. Our goal is to provide end-to-end intelligent solutions for modern businesses."
+        },
+        "q2": {
+          "question": "How long does a project take?",
+          "answer": "The project timeline varies based on the complexity and scope. On average, small projects take 2–4 weeks, while larger or more complex ones may take 6–12 weeks. We'll provide a detailed timeline after understanding your requirements."
+        },
+        "q3": {
+          "question": "Do you offer support?",
+          "answer": "Yes, we provide post-launch support to ensure your project runs smoothly. We also offer ongoing maintenance plans tailored to your needs."
+        },
+        "q4": {
+          "question": "Can I see examples?",
+          "answer": "Absolutely! We have a portfolio section on our website where you can view examples of our previous work. Feel free to ask for case-specific samples too."
+        },
+        "q5": {
+          "question": "What's your process?",
+          "answer": "Our process typically involves discovery, planning, design, development, testing, and launch. We collaborate with you at every stage to ensure the outcome aligns with your vision."
+        },
+        "q6": {
+          "question": "Do you have case studies?",
+          "answer": "Yes, we've documented several client journeys as case studies. These highlight the challenges, our approach, and the final results. Let us know if you'd like to view a specific one."
+        },
+        "q7": {
+          "question": "Questions about quotes?",
+          "answer": "We provide transparent and customized quotes based on your project's scope. If you have any questions about pricing, features, or packages, we're happy to walk you through the details."
+        },
+        "q8": {
+          "question": "Questions post-launch?",
+          "answer": "We're here even after your project goes live. From bug fixes to enhancements and performance monitoring, we ensure your product stays optimized and updated."
+        }
+      },
+      "description": "Still Confused? Have a Chat !",
+      "button": "Contact Us"
+    },
+    "specialOffer": "⚡️ Special Offer: Get 20% off your first project! Contact us now"
+  },
+  "about": {
+    "pageTitle": "Barakode | About Us",
+    "section1": {
+      "title": "The Team Turning Ideas into ",
+      "titleHighlight": "Impact",
+      "subtitle": "A bunch of creative minds stirring pixels, code, and caffeine to bring brands to life. Welcome to Barakode."
+    },
+    "section2": {
+      "title": "That's how Barakode turns vision into reality.",
+      "chapters": {
+        "ch1": {
+          "title": "Chapter 1",
+          "description": "The spark of innovation — where our vision for AI and customer success began. From brainstorming automation ideas to our earliest prototypes, this stage laid the foundation for everything that followed."
+        },
+        "ch2": {
+          "title": "Chapter 2",
+          "description": "Exploration and discovery. We experimented with data-driven strategies, tested AI models, and refined our CSM processes. Every challenge taught us something new, pushing us toward smarter solutions."
+        },
+        "ch3": {
+          "title": "Chapter 3",
+          "description": "Concepts turned into impact. We delivered our first AI-powered CSM tools, helping businesses automate tasks, improve engagement, and unlock new efficiencies. Growth and confidence took root here."
+        },
+        "ch4": {
+          "title": "Chapter 4",
+          "description": "Scaling up. We embraced bigger projects, introduced advanced AI features, and expanded our CSM frameworks. This was a stage of bold experiments, deeper insights, and long-term partnerships."
+        },
+        "ch5": {
+          "title": "Chapter 5",
+          "description": "Refinement and precision. We enhanced AI accuracy, optimized automation workflows, and elevated customer experience. Quality, trust, and innovation became the core of our identity."
+        },
+        "ch6": {
+          "title": "Chapter 6",
+          "description": "Innovation at scale. We launched enterprise-ready AI platforms, collaborated with global partners, and expanded into new markets. This chapter marked our evolution from ideas to industry impact."
+        },
+        "ch7": {
+          "title": "Chapter 7",
+          "description": "The present and beyond — a journey of transformation that continues. Today, we celebrate the impact of our AI + CSM services while looking ahead to building smarter, more connected futures."
+        }
+      }
+    },
+    "section3": {
+      "title": "Who Are We ?",
+      "tagline": "At Barakode, we don't just innovate — we innovate with purpose",
+      "items": {
+        "innovation": {
+          "title": "The Dawn of Innovation",
+          "description": "Explore the birth of groundbreaking ideas and inventions.",
+          "header": "Dive into the transformative power of technology."
+        },
+        "digital": {
+          "title": "The Digital Revolution",
+          "description": "Dive into the transformative power of technology.",
+          "header": "Dive into the transformative power of technology."
+        },
+        "design": {
+          "title": "The Art of Design",
+          "description": "Discover the beauty of thoughtful and functional design.",
+          "header": "Dive into the transformative power of technology."
+        },
+        "communication": {
+          "title": "The Power of Communication",
+          "description": "Understand the impact of effective communication in our lives.",
+          "header": "Dive into the transformative power of technology."
+        }
+      }
+    },
+    "section4": {
+      "hypertext": "Turning Zero Into Impact",
+      "fliptext": "~ Driven By Innovation, Built For Growth ~",
+      "reveal": {
+        "part1": "At ",
+        "brand": "Barakode",
+        "part2": ", we know what starting from ",
+        "highlight1": "zero",
+        "part3": " feels like — no roadmap, no safety net, just belief and relentless effort. We've failed fast, learned faster, and turned ideas into impact. That's why we don't just build for ",
+        "highlight2": "founders",
+        "part4": " — we build as ",
+        "highlight3": "founders"
+      },
+      "mask": {
+        "part1": "Driven By Innovation ",
+        "highlight": "Built ",
+        "part2": ", for Growth."
+      },
+      "mobile": {
+        "part1": "There has to be some",
+        "highlight": "meaning tied to motion, not just for show"
+      }
+    },
+    "bento": {
+      "skeleton3Label": "Innovating at Singularity Inc",
+      "skeleton4": {
+        "card1Text": "System design is our playground",
+        "card1Badge": "Architects",
+        "card2Text": "UI meets performance",
+        "card2Badge": "Frontend Gurus",
+        "card3Text": "We ship full-stack platforms",
+        "card3Badge": "Backend Wizards"
+      },
+      "skeleton5": {
+        "chat1": "We craft scalable web apps, from backend APIs to pixel-perfect UIs.",
+        "chat2": "Singularity stack: React.js + Tailwind + Node.js."
+      },
+      "items": {
+        "conversational": {
+          "title": "Conversational Interfaces",
+          "description": "Human-like UI patterns that feel natural, intuitive, and branded — just like chatting with Singularity Inc."
+        },
+        "dynamic": {
+          "title": "Dynamic Data Systems",
+          "description": "We engineer adaptive data flows and reactive UIs that respond to user interaction in real time."
+        },
+        "creative": {
+          "title": "Creative Visual Identity",
+          "description": "Our designs are more than static screens — they're living brand experiences with color, rhythm, and motion."
+        },
+        "fullStack": {
+          "title": "Full-Stack Engineering",
+          "description": "From backend APIs to frontend animations — we craft performant, scalable platforms from top to bottom."
+        },
+        "realTime": {
+          "title": "Real-Time Product Experiences",
+          "description": "We build interactive interfaces that respond, adapt, and engage — fast, fluid, and always in sync."
+        }
+      }
+    }
+  },
+  "services": {
+    "pageTitle": "Barakode | Services",
+    "section1": {
+      "title1": "Our Execution is ",
+      "title2": " Beyond ",
+      "title3": " your Expectation",
+      "subtitle": "Every Line with Purpose. Every Feature with Meaning."
+    },
+    "section2": {
+      "title": "Behind every project is a team that cares about results",
+      "subtitle": "From Startups To Scale–Ups, We've Baked Packages For Every Kind Of Brand, Choose The Flavor That Fits Your Vision.",
+      "packages": {
+        "eventHorizon": {
+          "title": "Event Horizon",
+          "subtitle": "For startups ready to cross the threshold into the digital world.",
+          "features": [
+            "Modern responsive website (up to 10 pages)",
+            "Basic cross-platform mobile app",
+            "Cloud hosting & deployment setup",
+            "Simple AI integration (chatbot/analytics)",
+            "1-month support",
+            "SEO & Performance Optimization"
+          ]
+        },
+        "quantumLeap": {
+          "title": "Quantum Leap",
+          "subtitle": "For growing businesses seeking a transformative upgrade.",
+          "features": [
+            "Custom dynamic website (CMS, e-commerce, or portal)",
+            "Advanced mobile app with API integrations",
+            "Scalable cloud architecture (CI/CD, monitoring)",
+            "Mid-level AI solutions (recommendation engine, NLP, image processing)",
+            "Dedicated project manager + 3-month support",
+            "SEO & Performance Optimization"
+          ]
+        },
+        "singularityPrime": {
+          "title": "Singularity Prime",
+          "subtitle": "For enterprises aiming for cutting-edge innovation.",
+          "features": [
+            "Enterprise-grade website/platform with microservices",
+            "Feature-rich native or hybrid app",
+            "Full cloud infrastructure (multi-region deployment, load balancing, disaster recovery)",
+            "Custom AI models or end-to-end ML pipelines (predictive analytics, generative AI, RAG systems)",
+            "Priority support & maintenance (6+ months)",
+            "Strategy & innovation consulting"
+          ]
+        }
+      }
+    },
+    "section3": {
+      "title": "Making Of A Masterpiece",
+      "subtitle": "From Blueprint To Bullet – Every Part Of Our Process Is Built To Fire Straight At Your Goals.",
+      "timeline": {
+        "research": {
+          "title": "Research",
+          "description": "We Dont just build, we build right. We start with understanding your vision and requirements to create a tailored solution."
+        },
+        "design": {
+          "title": "Design",
+          "description1": "We believe in the power of design to transform ideas into reality.",
+          "description2": "Our design process is a blend of creativity and strategy, ensuring that every pixel serves a purpose."
+        },
+        "develop": {
+          "title": "Develop",
+          "description1": "We take pride in our development process, ensuring that every line of code is crafted with precision and care.",
+          "description2": "Our team of skilled developers works tirelessly to bring your vision to life, using the latest technologies and best practices."
+        },
+        "delivery": {
+          "title": "Delivery",
+          "description1": "On time. On point.",
+          "description2": "We launch only when we're confident the solution meets your expectations and our standards—ensuring quality, functionality, and lasting value."
+        }
+      }
+    },
+    "section4": {
+      "title": "What We Forge?",
+      "subtitle": "At Barakode, we don't just build — we forge the future of digital experiences.",
+      "services": {
+        "webDev": {
+          "title": "Web Development",
+          "descriptions": [
+            "Crafting responsive, modern websites with cutting-edge designs.",
+            "Building powerful web applications tailored to your business needs.",
+            "Ensuring speed, security, and flawless performance across all devices."
+          ]
+        },
+        "mobileDev": {
+          "title": "Mobile Development",
+          "descriptions": [
+            "Designing sleek, intuitive mobile apps for Android, iOS, and cross-platform.",
+            "Integrating advanced features and APIs for a seamless user experience.",
+            "Delivering performance-driven apps built to scale with your growth."
+          ]
+        },
+        "uiux": {
+          "title": "UI/UX Design",
+          "descriptions": [
+            "Crafting intuitive, visually stunning interfaces that delight users.",
+            "Focusing on usability, accessibility, and seamless user journeys.",
+            "Delivering prototypes and design systems that scale with your product."
+          ]
+        },
+        "aiMl": {
+          "title": "AI/ML Development",
+          "descriptions": [
+            "Creating intelligent solutions with custom machine learning models.",
+            "Automating workflows using NLP, computer vision, and predictive analytics.",
+            "Delivering data-driven insights to improve decision-making and innovation."
+          ]
+        },
+        "cloudDev": {
+          "title": "Cloud Development",
+          "descriptions": [
+            "Setting up secure, scalable cloud infrastructures for businesses of all sizes.",
+            "Automating deployments, monitoring, and backups to reduce downtime.",
+            "Optimizing cloud costs while ensuring high availability and reliability."
+          ]
+        },
+        "qa": {
+          "title": "QA & Testing",
+          "descriptions": [
+            "Ensuring flawless performance and reliability with comprehensive testing.",
+            "Implementing automated and manual testing for optimal quality assurance.",
+            "Delivering robust, bug-free applications that exceed user expectations."
+          ]
+        }
+      }
+    }
+  },
+  "portfolio": {
+    "pageTitle": "Barakode | Portfolio",
+    "pdfDocument": "PDF Document",
+    "clickToView": "Click to view",
+    "showingCount": "Showing {{displayed}} of {{total}} case studies",
+    "forQuery": "for \"{{query}}\"",
+    "inCategory": "in {{category}}",
+    "noCaseStudies": "No case studies found",
+    "tryAdjusting": "Try adjusting your search or filter criteria",
+    "showMore": "Show More Case Studies ({{count}} more)",
+    "showLess": "Show Less",
+    "section1": {
+      "title1": "Our portfolio isn't a ",
+      "title2": "Gallery ",
+      "title3": "But Stories of",
+      "title4": "Entrepreneurs",
+      "subtitle": "Not Just Pretty Pixels. Purposeful, Powerful Products"
+    },
+    "section2": {
+      "title": "Beyond Templates. Fully Tailored Digital Craft.",
+      "tagline1": "Designs that click. Code that sticks.",
+      "tagline2": "Marketing, that's magic",
+      "project1Name": "Name of the project 1",
+      "project1Desc": "Description of the project 1 in one or two lines (should include the stack or the tool used in it)",
+      "project2Name": "Name of the project 2",
+      "project2Desc": "Description of the project 2 in one or two lines (should include the stack or the tool used in it)"
+    },
+    "section3": {
+      "title": "Case Studies & Research Portfolio",
+      "subtitle": "Deep dives into our innovative solutions and technical achievements",
+      "caseStudies": {
+        "workwise": {
+          "title": "WorkWise Mobile App",
+          "description": "A comprehensive mobile application for workplace management and productivity tracking. Built with React Native and Node.js backend."
+        },
+        "satellite": {
+          "title": "Satellite Image Matcher",
+          "description": "Advanced computer vision system for satellite image analysis and matching using deep learning algorithms and CNN architecture."
+        },
+        "webweave": {
+          "title": "WebWeave Web Scraping",
+          "description": "Intelligent web scraping solution with automated data extraction and processing capabilities using Python and machine learning."
+        },
+        "sketch": {
+          "title": "Sketch to Image App",
+          "description": "AI-powered application that converts hand-drawn sketches into digital images using generative models and computer vision."
+        },
+        "voc": {
+          "title": "VOC Segmentation App",
+          "description": "Semantic segmentation application for PASCAL VOC dataset using state-of-the-art deep learning models and PyTorch."
+        },
+        "mentorme": {
+          "title": "MentorMe Hiring App",
+          "description": "Full-stack hiring platform connecting mentors with mentees, featuring real-time chat, scheduling, and payment integration."
+        },
+        "glaucoma": {
+          "title": "Glaucoma Detection System",
+          "description": "Medical AI system for early glaucoma detection using retinal image analysis and convolutional neural networks."
+        },
+        "signature": {
+          "title": "Signature Recognition using CNN",
+          "description": "Biometric authentication system using deep learning for signature verification and fraud detection."
+        },
+        "blockchain": {
+          "title": "Blockchain Implementation",
+          "description": "Decentralized blockchain solution with smart contracts, cryptocurrency transactions, and distributed ledger technology."
+        },
+        "intel": {
+          "title": "Intel Image Classifier",
+          "description": "Multi-class image classification system for Intel Image Classification Challenge using transfer learning and CNN."
+        },
+        "pdfbot": {
+          "title": "PDF Bot Assistant",
+          "description": "Intelligent document processing bot with NLP capabilities for PDF analysis, extraction, and automated summarization."
+        },
+        "rushhour": {
+          "title": "Rush Hour Game AI",
+          "description": "AI-powered game solver for Rush Hour puzzle using search algorithms and heuristic optimization techniques."
+        },
+        "brickbreaker": {
+          "title": "Brick Breaker Game",
+          "description": "Classic arcade game implementation with modern graphics, physics engine, and progressive difficulty levels."
+        },
+        "stitch": {
+          "title": "Stitch Design System",
+          "description": "Comprehensive design system and component library for consistent UI/UX across multiple platforms and applications."
+        },
+        "alexnet": {
+          "title": "AlexNet Case Study",
+          "description": "Deep dive into AlexNet architecture implementation, training optimization, and performance analysis for image classification."
+        },
+        "bovw": {
+          "title": "BoVW Implementation",
+          "description": "Bag of Visual Words model implementation for image recognition and computer vision applications."
+        },
+        "botanist": {
+          "title": "Botanist App",
+          "description": "Plant identification and care application using machine learning for species recognition and gardening assistance."
+        },
+        "hallucination": {
+          "title": "Hallucination Detection",
+          "description": "Machine learning model for detecting AI hallucinations in language models using logistic regression and NLP techniques."
+        },
+        "lstm": {
+          "title": "LSTM Word Completion",
+          "description": "Natural language processing system for word completion and prediction using Long Short-Term Memory networks."
+        },
+        "signatureGen": {
+          "title": "Signature Generation",
+          "description": "Generative AI model for creating unique digital signatures using variational autoencoders and style transfer."
+        }
+      }
+    }
+  },
+  "hire": {
+    "pageTitle": "Barakode | Hire",
+    "section1": {
+      "title": "Hire Top Tech Talent",
+      "subtitle": "Access pre-vetted experts across all tech domains to accelerate your project delivery and innovation."
+    },
+    "section2": {
+      "title": "Why Hire Through Barakode?",
+      "subtitle": "Our streamlined hiring process ensures you get the best talent with minimal effort and maximum efficiency.",
+      "features": {
+        "preVetted": {
+          "title": "Pre-Vetted Experts",
+          "description": "Access to thoroughly vetted professionals with proven expertise and experience."
+        },
+        "rapidOnboarding": {
+          "title": "Rapid Onboarding",
+          "description": "Get started within 48 hours with our streamlined hiring process."
+        },
+        "dedicatedSupport": {
+          "title": "Dedicated Support",
+          "description": "Continuous support and account management throughout the engagement."
+        },
+        "innovative": {
+          "title": "Innovative Solutions",
+          "description": "Cutting-edge approaches to solve complex business challenges."
+        },
+        "performance": {
+          "title": "Performance Focused",
+          "description": "Results-driven professionals committed to delivering measurable outcomes."
+        },
+        "secure": {
+          "title": "Secure & Reliable",
+          "description": "Enterprise-grade security and confidentiality for all projects."
+        }
+      }
+    },
+    "section3": {
+      "title": "Hire Top Talent",
+      "subtitle": "Explore our specialized talent pool and find the perfect fit for your project",
+      "viewDetails": "View Details",
+      "options": {
+        "fullStack": {
+          "title": "Full Stack Developer",
+          "description": "Expert developers for end-to-end web application development."
+        },
+        "mobile": {
+          "title": "Mobile App Developer",
+          "description": "Skilled developers for iOS and Android application development."
+        },
+        "aiMl": {
+          "title": "AI/ML Engineer",
+          "description": "Specialists in artificial intelligence and machine learning solutions."
+        },
+        "cloud": {
+          "title": "Cloud Engineer",
+          "description": "Experts in cloud architecture and infrastructure management."
+        },
+        "uiux": {
+          "title": "UI/UX Designer",
+          "description": "Creative designers for intuitive and engaging user experiences."
+        },
+        "qa": {
+          "title": "QA Engineer",
+          "description": "Quality assurance specialists for robust and reliable software."
+        }
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Barakode | Contact Us",
+    "header": {
+      "title": "Get in Touch",
+      "subtitle": "Have a project in mind? Let's discuss how we can bring your vision to life."
+    },
+    "steps": {
+      "personalInfo": "Personal Info",
+      "schedule": "Schedule",
+      "confirm": "Confirm"
+    },
+    "step1": {
+      "title": "Tell us about your project",
+      "subtitle": "Share your contact details and project requirements"
+    },
+    "step2": {
+      "title": "Schedule your session",
+      "subtitle": "Choose a time that works best for you"
+    },
+    "step3": {
+      "title": "Review your details",
+      "subtitle": "Please confirm everything looks correct"
+    },
+    "form": {
+      "fullName": "Your Full Name*",
+      "email": "Email Address*",
+      "phone": "Phone Number*",
+      "company": "Company/Organization (Optional)",
+      "subject": "Subject*",
+      "message": "Message*",
+      "date": "Preferred Date*",
+      "timeSlots": "Available Time Slots*",
+      "source": "How did you hear about us?*",
+      "placeholders": {
+        "name": "Your name here",
+        "email": "Your email here",
+        "phone": "+92 3001234567",
+        "company": "Your company name",
+        "subject": "What can we help you with?",
+        "message": "Tell us about your project or inquiry..."
+      },
+      "timeOptions": {
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "evening": "Evening"
+      },
+      "sourceOptions": {
+        "google": "Google",
+        "instagram": "Instagram",
+        "whatsapp": "WhatsApp",
+        "referral": "Friend / Referral",
+        "other": "Other"
+      }
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "invalidPhone": "Enter a valid Pakistan number: +92 followed by 10 digits",
+      "invalidEmail": "Enter a valid email",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required",
+      "dateRequired": "Date is required"
+    },
+    "review": {
+      "personalInfo": "Personal Information",
+      "fullName": "Full Name:",
+      "email": "Email:",
+      "phone": "Phone:",
+      "company": "Company:",
+      "subject": "Subject:",
+      "message": "Message:",
+      "appointment": "Appointment",
+      "date": "Date:",
+      "time": "Time:",
+      "source": "Source:",
+      "notSelected": "Not selected",
+      "edit": "Edit"
+    },
+    "buttons": {
+      "back": "Back",
+      "continue": "Continue",
+      "submitting": "Submitting...",
+      "sendMessage": "Send Message",
+      "submitAnother": "Submit Another Inquiry"
+    },
+    "leftPanel": {
+      "stepOf": "Step {{current}} of {{total}}",
+      "appointmentConfirmed": "Appointment Confirmed",
+      "teamMessage": "Our team is excited to work with you. Let's create something amazing together!"
+    },
+    "success": {
+      "title": "Contact Form Submitted Successfully!",
+      "submissionsLeft": "You have {{count}} submissions left in this 3-day window.",
+      "message": "Thank you for reaching out! We've received your message and will get back to you at {{email}} within 24-48 hours."
+    },
+    "info": {
+      "secure": "Your information is secure with us. We'll only use it to communicate about your appointment.",
+      "timezone": "All times are in your local timezone. Need to reschedule? You can change your appointment anytime up to 24 hours before.",
+      "error": "There was an error submitting your form. Please try again or contact us directly at info@barakodetechnologies.com",
+      "emailUs": "Have questions? Email us at"
+    }
+  },
+  "notFound": {
+    "pageTitle": "Barakode | Not Found",
+    "title": "Page Not Found",
+    "description1": "Oops! The page you're looking for doesn't exist.",
+    "description2": "Maybe it got moved or never existed at all.",
+    "goHome": "Go Back Home"
+  },
+  "individualServices": {
+    "common": {
+      "technologiesTitle": "Technologies",
+      "technologiesSubtitle": "We leverage cutting-edge technologies to deliver exceptional solutions",
+      "programmingLanguages": "Programming Languages",
+      "frameworks": "Frameworks",
+      "platforms": "Platforms"
+    },
+    "aiMl": {
+      "pageTitle": "AI/ML Development",
+      "title": "AI/ML Development",
+      "subtitle": "Transform your business with intelligent solutions powered by artificial intelligence and machine learning.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our AI/ML development services help businesses harness the power of artificial intelligence to solve complex problems, automate processes, and gain valuable insights from data. We specialize in creating custom machine learning models, natural language processing systems, computer vision applications, and predictive analytics solutions that drive innovation and competitive advantage. From conceptualization to deployment, our team of experts ensures that your AI initiatives deliver measurable business value.",
+      "programmingLanguages": ["Python", "R", "Julia", "Scala", "Java", "C++"],
+      "frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV", "NLTK"],
+      "platforms": ["Google AI Platform", "AWS SageMaker", "Azure ML", "Hugging Face", "Docker", "Kubernetes"]
+    },
+    "mobile": {
+      "pageTitle": "Mobile Development",
+      "title": "Mobile Development",
+      "subtitle": "Create powerful, intuitive mobile applications that engage users and drive business growth.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our mobile development services deliver high-performance, cross-platform applications that provide seamless user experiences across all devices. We specialize in building native and hybrid mobile solutions for iOS and Android platforms, focusing on intuitive design, robust functionality, and scalable architecture. From concept to deployment, we ensure your mobile application stands out in the competitive app marketplace while meeting your business objectives.",
+      "programmingLanguages": ["Swift", "Kotlin", "Java", "Objective-C", "JavaScript", "TypeScript"],
+      "frameworks": ["React Native", "Flutter", "Xamarin", "Ionic", "NativeScript", "Expo"],
+      "platforms": ["App Store", "Google Play", "Firebase", "AWS Mobile", "Docker", "Fastlane"]
+    },
+    "web": {
+      "pageTitle": "Web Development",
+      "title": "Web Development",
+      "subtitle": "Build modern, responsive websites and web applications that captivate audiences and drive results.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our web development services encompass the full spectrum of digital solutions, from sleek landing pages to complex web applications. We combine cutting-edge technologies with user-centered design principles to create websites that not only look stunning but also perform exceptionally. Our team specializes in responsive design, e-commerce solutions, content management systems, and progressive web apps that deliver seamless experiences across all devices and browsers.",
+      "programmingLanguages": ["JavaScript", "TypeScript", "HTML5", "CSS3", "Python", "PHP"],
+      "frameworks": ["React", "Next.js", "Vue.js", "Angular", "Node.js", "Express"],
+      "platforms": ["AWS", "Vercel", "Netlify", "Firebase", "Docker", "GitHub Actions"]
+    },
+    "cloud": {
+      "pageTitle": "Cloud Development",
+      "title": "Cloud Development",
+      "subtitle": "Scale your infrastructure with secure, reliable, and cost-effective cloud solutions.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our cloud development services help businesses leverage the power of cloud computing to build scalable, secure, and cost-effective solutions. We specialize in cloud migration, infrastructure as code, serverless architectures, and cloud-native application development. Our team ensures seamless deployment, monitoring, and optimization of your cloud infrastructure across major platforms like AWS, Azure, and Google Cloud, enabling you to focus on innovation while we handle the complexity.",
+      "programmingLanguages": ["Python", "Go", "Java", "Node.js", "Terraform", "YAML"],
+      "frameworks": ["Docker", "Kubernetes", "Serverless Framework", "Terraform", "Ansible", "Pulumi"],
+      "platforms": ["AWS", "Azure", "Google Cloud", "Heroku", "DigitalOcean", "Cloudflare"]
+    },
+    "uiux": {
+      "pageTitle": "UI/UX Design",
+      "title": "UI/UX Design",
+      "subtitle": "Create intuitive, engaging interfaces that delight users and drive conversions.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our UI/UX design services focus on creating exceptional digital experiences that combine aesthetic appeal with functional excellence. We employ user-centered design principles to craft interfaces that are not only visually stunning but also intuitive and accessible. From wireframing and prototyping to high-fidelity designs and design systems, our team ensures every touchpoint reflects your brand identity while optimizing user engagement and satisfaction. We transform complex ideas into simple, elegant solutions that resonate with your target audience.",
+      "programmingLanguages": ["HTML", "CSS", "JavaScript", "TypeScript", "JSON", "Markdown"],
+      "frameworks": ["Figma", "Sketch", "Adobe XD", "InVision", "Zeplin", "Framer"],
+      "platforms": ["Dribbble", "Behance", "Abstract", "Zeroheight", "Storybook", "Notion"]
+    },
+    "qa": {
+      "pageTitle": "QA & Testing",
+      "title": "QA & Testing",
+      "subtitle": "Ensure flawless performance and reliability with our comprehensive testing solutions.",
+      "buttonText": "Get a Quote",
+      "overview": "Overview",
+      "content": "Our QA and testing services are designed to ensure your software meets the highest standards of quality, performance, and reliability. We provide end-to-end testing solutions including manual and automated testing, performance testing, security testing, and user acceptance testing. Our experienced QA engineers work closely with your development team to identify and resolve issues early in the development cycle, reducing costs and accelerating time-to-market. With a combination of industry best practices and cutting-edge tools, we help you deliver robust, bug-free applications that exceed user expectations.",
+      "programmingLanguages": ["Python", "Java", "JavaScript", "C#", "Ruby", "SQL"],
+      "frameworks": ["Selenium", "Cypress", "Jest", "TestCafe", "Postman", "Appium"],
+      "platforms": ["JIRA", "TestRail", "BrowserStack", "Sauce Labs", "Docker", "Jenkins"]
+    }
+  },
+  "individualHire": {
+    "common": {
+      "starterPlan": "Starter Plan",
+      "starterSubtitle": "Great for Small Projects",
+      "starterDescription": "Ideal for startups, MVPs, or short-term projects",
+      "professionalPlan": "Professional Plan",
+      "professionalSubtitle": "For Growing Teams",
+      "professionalDescription": "Ideal for scaling products or ongoing development",
+      "enterprisePlan": "Enterprise Plan",
+      "enterpriseSubtitle": "End-to-End Support",
+      "enterpriseDescription": "Ideal for enterprise-scale or mission-critical projects",
+      "startingFrom": "Starting from",
+      "perHour": "/hr",
+      "or": "or",
+      "perMonth": "/mo",
+      "getStarted": "Get Started",
+      "hireA": "Hire a",
+      "scheduleConsultation": "Schedule a Free Consultation",
+      "consultationSubtitle": "Fill out the form below and our team will contact you within 24 hours to discuss your project requirements.",
+      "successMessage": "Thank you for your submission! We'll get back to you soon.",
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "phoneNumber": "Phone Number",
+      "company": "Company (Optional)",
+      "projectDetails": "Project Details",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "phonePlaceholder": "+1 (555) 123-4567",
+      "companyPlaceholder": "Company Name",
+      "projectPlaceholder": "Tell us about your project requirements...",
+      "submitting": "Submitting...",
+      "scheduleBtn": "Schedule Consultation"
+    },
+    "fullStack": {
+      "title": "Full Stack Developer",
+      "subtitle": "Hire expert full stack developers to build scalable, robust applications that drive your business forward.",
+      "role": "Full Stack Developer – Expertise in React, Node.js, MongoDB",
+      "starter": {
+        "features": ["20 Hours per week", "Development & basic maintenance", "Standard communication (email & chat)", "Basic code review & documentation"],
+        "hourlyRate": "$25",
+        "monthlyRate": "$2,000"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced development & architecture planning", "Priority communication channels (Slack, Zoom)", "Full code review, testing & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$25",
+        "monthlyRate": "$4,000"
+      },
+      "enterprise": {
+        "features": ["Dedicated developer/team", "Unlimited consultation hours", "Custom architecture & infrastructure support", "Continuous integration/continuous deployment setup", "Premium support & 24/7 availability", "Regular performance reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    },
+    "mobileApp": {
+      "title": "Mobile App Developer",
+      "subtitle": "Hire skilled mobile app developers to create intuitive, high-performance applications for iOS and Android platforms.",
+      "role": "Mobile App Developer – Expertise in React Native, Flutter, iOS Swift, Android Kotlin",
+      "starter": {
+        "features": ["20 Hours per week", "Development & basic maintenance", "Standard communication (email & chat)", "Basic code review & documentation"],
+        "hourlyRate": "$20",
+        "monthlyRate": "$1,600"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced development & architecture planning", "Priority communication channels (Slack, Zoom)", "Full code review, testing & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$20",
+        "monthlyRate": "$3,200"
+      },
+      "enterprise": {
+        "features": ["Dedicated developer/team", "Unlimited consultation hours", "Custom architecture & infrastructure support", "Continuous integration/continuous deployment setup", "Premium support & 24/7 availability", "Regular performance reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    },
+    "aiMl": {
+      "title": "AI/ML Engineer",
+      "subtitle": "Hire expert AI/ML engineers to implement cutting-edge artificial intelligence solutions that transform your business operations.",
+      "role": "AI/ML Engineer – Expertise in TensorFlow, PyTorch, Python, NLP, Computer Vision",
+      "starter": {
+        "features": ["20 Hours per week", "Development & basic maintenance", "Standard communication (email & chat)", "Basic code review & documentation"],
+        "hourlyRate": "$25",
+        "monthlyRate": "$2,000"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced development & architecture planning", "Priority communication channels (Slack, Zoom)", "Full code review, testing & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$25",
+        "monthlyRate": "$4,000"
+      },
+      "enterprise": {
+        "features": ["Dedicated developer/team", "Unlimited consultation hours", "Custom architecture & infrastructure support", "Continuous integration/continuous deployment setup", "Premium support & 24/7 availability", "Regular performance reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    },
+    "cloud": {
+      "title": "Cloud Engineer",
+      "subtitle": "Hire experienced cloud engineers to design, deploy, and manage scalable, secure cloud infrastructure for your business.",
+      "role": "Cloud Engineer – Expertise in AWS, Azure, Google Cloud, Docker, Kubernetes",
+      "starter": {
+        "features": ["20 Hours per week", "Development & basic maintenance", "Standard communication (email & chat)", "Basic code review & documentation"],
+        "hourlyRate": "$20",
+        "monthlyRate": "$1,600"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced development & architecture planning", "Priority communication channels (Slack, Zoom)", "Full code review, testing & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$20",
+        "monthlyRate": "$3,200"
+      },
+      "enterprise": {
+        "features": ["Dedicated developer/team", "Unlimited consultation hours", "Custom architecture & infrastructure support", "Continuous integration/continuous deployment setup", "Premium support & 24/7 availability", "Regular performance reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    },
+    "uiux": {
+      "title": "UI/UX Designer",
+      "subtitle": "Hire talented UI/UX designers to create intuitive, engaging interfaces that delight users and drive conversions.",
+      "role": "UI/UX Designer – Expertise in Figma, Adobe XD, User Research, Design Systems",
+      "starter": {
+        "features": ["20 Hours per week", "Design & basic prototyping", "Standard communication (email & chat)", "Basic design review & documentation"],
+        "hourlyRate": "$15",
+        "monthlyRate": "$1,200"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced design & user research", "Priority communication channels (Slack, Zoom)", "Full design review, testing & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$15",
+        "monthlyRate": "$2,400"
+      },
+      "enterprise": {
+        "features": ["Dedicated designer/team", "Unlimited consultation hours", "Custom design systems & brand guidelines", "User research & testing support", "Premium support & 24/7 availability", "Regular design reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    },
+    "qa": {
+      "title": "QA Engineer",
+      "subtitle": "Hire skilled QA engineers to ensure your software meets the highest standards of quality, performance, and reliability.",
+      "role": "QA Engineer – Expertise in Selenium, Cypress, Jest, Manual Testing, Automation",
+      "starter": {
+        "features": ["20 Hours per week", "Manual testing & basic automation", "Standard communication (email & chat)", "Basic test documentation"],
+        "hourlyRate": "$15",
+        "monthlyRate": "$1,200"
+      },
+      "professional": {
+        "features": ["40 Hours per week", "Advanced testing & test automation", "Priority communication channels (Slack, Zoom)", "Full test coverage & documentation", "Dedicated project manager (optional)"],
+        "hourlyRate": "$15",
+        "monthlyRate": "$2,400"
+      },
+      "enterprise": {
+        "features": ["Dedicated QA engineer/team", "Unlimited testing hours", "Custom testing frameworks & infrastructure", "Performance & security testing", "Premium support & 24/7 availability", "Regular testing reviews and optimizations"],
+        "hourlyRate": "Custom",
+        "monthlyRate": "Quote"
+      }
+    }
+  },
+  "languageToggle": {
+    "en": "EN",
+    "ar": "AR",
+    "switchTo": "العربية"
+  }
+}
